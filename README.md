@@ -1,3 +1,3 @@
-QR code generator
+# QR Code Generator
 QR code generator in HTML CSS and JAVASCRIPT
-Must try
+Must Try
